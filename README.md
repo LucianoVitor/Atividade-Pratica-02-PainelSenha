@@ -9,33 +9,33 @@ Este é um projeto desenvolvido em [**React Native**](https://reactnative.dev), 
     <tr>
       <td>
         <p align="center"><b>1. Cadastro Inicial</b></p>
-        <img src="./screenshots/img1.png" width="200" alt="Tela de Cadastro Vazia">
+        <img src="./screenshots/img1.jpeg" width="200" alt="Tela de Cadastro Vazia">
       </td>
       <td>
         <p align="center"><b>2. Paciente Cadastrado</b></p>
-        <img src="./screenshots/img2.png" width="200" alt="Paciente Cadastrado">
+        <img src="./screenshots/img2.jpeg" width="200" alt="Paciente Cadastrado">
       </td>
       <td>
         <p align="center"><b>3. Lista de Pacientes</b></p>
-        <img src="./screenshots/img3.png" width="200" alt="Lista de Pacientes Cadastrados">
+        <img src="./screenshots/img3.jpeg" width="200" alt="Lista de Pacientes Cadastrados">
       </td>
       <td>
         <p align="center"><b>4. Gerar Senha</b></p>
-        <img src="./screenshots/img4.png" width="200" alt="Seleção de Paciente para Senha">
+        <img src="./screenshots/img4.jpeg" width="200" alt="Seleção de Paciente para Senha">
       </td>
     </tr>
     <tr>
       <td>
         <p align="center"><b>5. Confirmação e Prioridade</b></p>
-        <img src="./screenshots/img5.png" width="200" alt="Confirmação de Emissão de Senha">
+        <img src="./screenshots/img5.jpeg" width="200" alt="Confirmação de Emissão de Senha">
       </td>
       <td>
         <p align="center"><b>6. Fila de Espera</b></p>
-        <img src="./screenshots/img6.png" width="200" alt="Fila de Chamada de Senhas">
+        <img src="./screenshots/img6.jpeg" width="200" alt="Fila de Chamada de Senhas">
       </td>
       <td>
         <p align="center"><b>7. Painel de Chamada Ativa</b></p>
-        <img src="./screenshots/img7.png" width="200" alt="Senha Chamada e Histórico">
+        <img src="./screenshots/img7.jpeg" width="200" alt="Senha Chamada e Histórico">
       </td>
     </tr>
   </table>
